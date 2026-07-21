@@ -1,27 +1,27 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "SAKETH",
+    "username": "saketh9549",
+    "headline": "Student",
+    "affiliation": "Shiv Nadar Univeristy",
+    "location": "Hyderabad, India",
+    "status": "Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
+      "Computer Science student at Shiv Nadar University with a strong interest in data engineering, AI/ML, and cloud infrastructure.",
       "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
     ]
   },
   "research": {
-    "primary": "AI Agents",
+    "primary": "Applied AI",
     "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
+    "themes": "AI / Distributed Systems / Cloud",
     "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
   },
   "focus": [
     {
       "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "description": "Autonomous workflows"
     },
     {
       "name": "Applied AI",
@@ -34,16 +34,16 @@
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Calibrate",
+      "url": "https://github.com/saketh9549/Calibrate",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Resume Analyser",
+      "summary": "Your resume doesn't have one score — it has a different one for every job. Calibrate uses AI to score it against a specific JD, and tells you exactly why.",
+      "heroLabel": "Javascript"
     },
     {
       "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "url": "https://github.com/saketh9549/project-two",
       "homepage": "",
       "focus": "Secondary project focus",
       "summary": "A second project that supports the professional direction of this profile.",
@@ -51,17 +51,22 @@
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "FastAPI",
+    "React",
+    "Tailwind CSS",
+    "AWS",
+    "MySQL",
+    "MongoDB",
+    "Docker",
+    "Git",
+    "GitHub"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "saketh9549",
+      "url": "https://github.com/saketh9549",
       "logo": "github",
       "color": "0B1220"
     }
@@ -71,7 +76,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "ocean"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Learning, building, and turning ideas into impactful software."
 }
