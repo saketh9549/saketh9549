@@ -47,8 +47,6 @@ I am interested in systems that can observe state, use tools, evaluate outcomes,
 <!-- AUTO:ACTIVITY:START -->
 - Sep 12, 2026: pushed 1 commit to [saketh9549/IR_project](https://github.com/saketh9549/IR_project).
 - Sep 9, 2026: created a branch in [saketh9549/IR_project](https://github.com/saketh9549/IR_project).
-- Sep 5, 2026: pushed 1 commit to [VivekChowdary2406/Frontend_SIH](https://github.com/VivekChowdary2406/Frontend_SIH).
-- Sep 5, 2026: created a branch in [saketh9549/Backend_sih](https://github.com/saketh9549/Backend_sih).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
